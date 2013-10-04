@@ -1,0 +1,7 @@
+C:\dev\Veritas\DAL\bin\Debug\VeritasDAL.dll.config
+C:\dev\Veritas\DAL\bin\Debug\VeritasDAL.dll
+C:\dev\Veritas\DAL\bin\Debug\VeritasDAL.pdb
+C:\dev\Veritas\DAL\bin\Debug\SubSonic.dll
+C:\dev\Veritas\DAL\obj\Debug\VeritasDAL.dll
+C:\dev\Veritas\DAL\obj\Debug\VeritasDAL.pdb
+C:\dev\Veritas\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
